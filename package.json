@@ -1,0 +1,15 @@
+{
+  "name": "flowcore-dinheiro-em-centavos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lê e formata BRL, rateia sem perder centavo, calcula juros e monta a Tabela Price. Financeiro sem erro de arredondamento nem diferença na conciliação.",
+  "author": "FlowCore Soluções LTDA",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
